@@ -36,7 +36,7 @@ while True:
         z = 1
     if 100<cx<380:
         k=k+1
-    elif k==380:
+    elif k==309:
         print("Game Over")
         k,z = 0
         cx = 100
